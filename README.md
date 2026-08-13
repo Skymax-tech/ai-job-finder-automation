@@ -7,6 +7,7 @@ An AI-powered job search workflow designed to help users find relevant job oppor
 The workflow collects the user's job preferences, stores the request in Airtable, searches for available job opportunities, uses AI to identify the most suitable options, sends personalized recommendations by email, and stores the recommendations for future reference.
 
 ## 🔄 Workflow
+![AI Job Finder Workflow](ai-job-finder-workflow.png)
 
 User submits job search request
 ↓
